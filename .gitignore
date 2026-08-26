@@ -14,7 +14,8 @@ agent_env/
 
 # --- IDE Settings ---
 .vscode/
-.idea/app/model.onnx
+.idea/
+app/model.onnx
 app/model.onnx.data
 app/best_hybrid_model_5cls.pth
 *.pth
