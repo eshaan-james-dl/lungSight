@@ -1,0 +1,20 @@
+.git
+.gitignore
+
+# Ignore local virtual environments
+agent_env/
+venv/
+env/
+.venv/
+
+# Ignore Python cache
+__pycache__/
+**/*.pyc
+**/*.pyo
+**/*.pyd
+
+# Ignore IDE settings
+.vscode/
+.idea/
+
+

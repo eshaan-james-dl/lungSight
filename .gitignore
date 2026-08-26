@@ -1,0 +1,20 @@
+# --- Security (NEVER UPLOAD) ---
+.env
+.env.local
+
+# --- Python Junk ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# --- Virtual Environments (Huge) ---
+agent_env/
+.venv/
+
+# --- IDE Settings ---
+.vscode/
+.idea/app/model.onnx
+app/model.onnx.data
+app/best_hybrid_model_5cls.pth
+*.pth
